@@ -1,10 +1,12 @@
 # devops-tech-interview
 
-Choose one of the [tasks](#tasks) below and complete any number of the optional tasks. There are [multiple questions](#required-questions); add your answers to the `Answer` column. You will have a week from when you receive the email with the link to this repository to complete the required task. These tasks should take roughly two hours to complete. 
+First there are [three questions](#required-questions) below, add your answers to the `Answer` column. Then choose one of the [tasks](#tasks) you would like to do. Each main task also has optional tasks, complete as many or as little as you would like to. You will have a week from when you receive the email with the link to this repository to complete the required task. These tasks should take roughly two hours to complete. 
 
 Before beginning, fork this repository to your personal GitHub. After completing your task, include the artifacts in the `artifacts` folder under the exercise you chose. When you are ready to submit, create a PR on the parent repository with your changes. For your task, provide instructions on setting up a local environment and deploying the resources. Feel free to ask for clarification or additional information on these tasks.
 
 # Required Questions
+
+Place your answer in the answer column.
 
 | no. | Question | Answer |
 | --- | --- | --- |
@@ -13,6 +15,8 @@ Before beginning, fork this repository to your personal GitHub. After completing
 | 3 | A Kubernetes pod fails to start with the error "Image Pull Backoff". What scenarios could cause this error, and how would you resolve them? |  |
 
 # Tasks
+
+Pick one you would like to do and complete it.
 
 ## Infrastructure as Code
 
